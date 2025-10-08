@@ -19,7 +19,7 @@ Based on the GeeksforGeeks curriculum.
 
 
 
-2.# Employee Data Analyzer  
+##2. Employee Data Analyzer  
 Project built as part of the GeeksforGeeks Java Full Stack Course.  
 This project helped me practice file handling, collections, and data processing in Java.  
 
@@ -38,7 +38,7 @@ This project helped me practice file handling, collections, and data processing 
 
 
 
-3.🎮 Tic-Tac-Toe Game
+##3.🎮 Tic-Tac-Toe Game
 
 Project built as part of the GeeksforGeeks Java Full Stack Course.
 This project helped me strengthen my understanding of Java OOPs, arrays, and conditional logic through an interactive console-based game.
